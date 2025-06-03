@@ -27,8 +27,8 @@
 
 ## Полезные ссылки
 - 🌐 Сайт: <https://thdata.ru/>
-- 💼 Вакансии: <https://thdata.ru/careers>
-- 📫 Почта: hello@thdata.ru
+- 💼 Вакансии: <https://thdata.ru/#rec889300162>
+- 📫 Почта: contact@thdata.ru 
 - 📰 Блог: <https://habr.com/ru/companies/thdata/>
 
 ---
