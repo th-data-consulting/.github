@@ -1,9 +1,8 @@
-<!-- ORGANIZATION PROFILE README -->
-# THDATA · Эксперты по данным
+# TH DATA · Эксперты по данным
 
-![THDATA banner](https://raw.githubusercontent.com/your-org/assets/main/banner.png)
+![THDATA banner](https://github.com/th-data-consulting/.github/blob/main/profile/logo_readme.png?raw=true)
 
-**THDATA** помогает компаниям проектировать и развивать платформы данных: Data Lake, DWH, BI‑аналитику, Data Quality и Data Governance.  
+**TH DATA** помогает компаниям проектировать и развивать платформы данных: Data Lake, DWH, BI‑аналитику, Data Quality и Data Governance.  
 Мы соединяем **архитектуру**, **инженерию** и **аналитику**, чтобы превращать данные в решения.
 
 **Что вы найдёте в этом GitHub:**
